@@ -76,15 +76,26 @@ p {
 }
 
 .btn {
-    background-color: #2e8b57;
-    color: #fff;
-    padding: 0.75rem 1.5rem;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 5px;
-    display: inline-block;
-    margin-top: 1rem;
+    background-color: #000000; /* Dark black for buttons */
+    color: #ffffff; /* White text */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    text-decoration: none; /* Removes underline */
+    transition: background-color 0.3s ease;
+    outline: none; /* Removes the black box/outline on click */
 }
+
+.btn:hover {
+    background-color: #333333; /* Dark gray on hover */
+}
+
+.btn:focus {
+    outline: none; /* Ensures no focus outline is shown */
+}
+
+
 
 .social-links {
     margin-top: 2rem;
