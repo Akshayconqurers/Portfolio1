@@ -20,3 +20,5 @@ Welcome to my portfolio website! I'm a 4th-year B.Tech student in Computer Scien
 - Email: [akshayprince7800@gmail.com](mailto:akshayprince7800@gmail.com)
 - LinkedIn: [linkedin.com/in/akshay-pratap-singh-a309b8250](https://www.linkedin.com/in/akshay-pratap-singh-a309b8250)
 - GitHub: [github.com/akshayconqurers](https://github.com/akshayconqurers
+
+![127 0 0 1_5500_(HD SCREENSHOT)](https://github.com/user-attachments/assets/f22fae86-f0c5-435c-a4e8-4b19b8231898)
